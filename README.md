@@ -11,6 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.linkedin.com/in/mannan-ali-b56896257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">LinkedIn</a> |
+    <a href="https://www.fiverr.com/mannan_ali2?up_rollout=true" target="_blank" rel="noreferrer">Fiverr</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
