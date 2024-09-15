@@ -17,7 +17,7 @@
         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
     </a> 
     <a href="https://www.fiverr.com/mannan_ali2?up_rollout=true" target="_blank" rel="noreferrer">
-        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJQAAACUCAMAAABC4vDmAAAAYFBMVEUdv3P///8AvWzA6NLd8ubH6NkrwHi96NHJ69lQxoj4/PsQvm9ny5htzp4ZvHXU8OHy+vZCxoQAuGUAvmeW2rWz5Mpiy5R91KO04s3r+PMyv3us4sal38B50KTk9e6J165yQsHcAAABdklEQVR4nO3b626CQBBA4WVRRAawrEhLW+v7v2VNk1IrI9KEMkbP+U3CF9bsRdQ5IiIiIiIiIrrjvA/H/K/EFLQNSV7v4s1ZjZlKQvL80kZahRFK/OvbhyqKoswIdSRdEJmhxBf6uBmiRHYDJKsnFQ+aTFAhHTZZoML7FZMByu+vmeZHSfl0e6gwMD+ZoaqhCcoI5evrptlR20vrnSFK3AhTFO1nRV2aDxZ1U52UzGlyQV30ssJtDXeboq0w7dqbgb7aKKhDsDW5hTJ41qZEQS2NB09FrUDdNOrk6Kt90Hdnx2O9qaexMl52KZupNl2OqJ5WJWXWl/y5eNpBHrPXBAUKFChQoO4J5W4RJWWbdWn3y3rN8KSkyb8rlK8S0ryXchCbGuWkS9t5roKcpxxZJ0f9NHKPDgoUKFCgQIECBQoUKFCgQIECBQoUKFCgQD0mSnvj0L+d8sYh/cefx637Vb2LpBpz1XSZ/vmEiIiIiIiIiIjoQfsEPzUk1/kfm0wAAAAASUVORK5CYII=" alt="fiverr" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Fiverr_Logo.svg" alt="fiverr" width="80" height="40"/>
     </a>
 </p>
 
