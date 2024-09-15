@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mannan Ali</h1>
 <h3 align="center">A passionate Flutter and Mobile App Developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mannanali912&label=Profile%20views&color=0e75b6&style=flat" alt="mannanali912" /> </p>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=mannanali912&label=Profile%20views&color=0e75b6&style=flat" alt="mannanali912" /> 
+</p>
 
 - 🌱 I’m currently learning **Flutter** and **Dart**
 
@@ -11,8 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/mannan-ali-b56896257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">LinkedIn</a> |
-    <a href="https://www.fiverr.com/mannan_ali2?up_rollout=true" target="_blank" rel="noreferrer">Fiverr</a>
+    <a href="https://www.linkedin.com/in/mannan-ali-b56896257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/>
+    </a> 
+    <a href="https://www.fiverr.com/mannan_ali2?up_rollout=true" target="_blank" rel="noreferrer">
+        <img src="https://cdn-icons-png.flaticon.com/512/5969/5969959.png" alt="fiverr" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
