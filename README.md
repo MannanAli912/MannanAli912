@@ -13,7 +13,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/mannan-ali-b56896257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">LinkedIn</a> |
     <a href="https://www.fiverr.com/mannan_ali2?up_rollout=true" target="_blank" rel="noreferrer">Fiverr</a>
-</p>A
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -35,4 +35,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannanali912&show_icons=true&locale=en" alt="mannanali912" /></p>
-(add linkedin image and fiverr image to back added link in this file)
+
